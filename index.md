@@ -17,19 +17,11 @@
   background-position: top;
 }
 
-tw-passage [tags~="start"] {
-  line-height: 130%;
-}
-
 tw-story[tags~="game"] {
   background-image: url("https://i.postimg.cc/XYP9L7sQ/header-block.png"), linear-gradient(rgba(253, 190, 15, 1), rgba(0, 0, 0, 1));
   background-repeat: no-repeat;
   background-position: top;
   background-size: auto 7em;
-}
-
-tw-passage [tags~="game"] {
-  line-height: 115%;
 }
 
 tw-passage {
@@ -67,6 +59,7 @@ tw-passage {
   	font-size: 4vh;
   	font-size: 4vw;
   	font-size: 4vmin;
+  	line-height: 125%;
 }
 
 tw-story {
