@@ -579,7 +579,8 @@ Want to find out where other choices might have led? Play again (click:&quot;Pla
 The 3D models in the game are real objects and places that Historic Environment Scotland looks after. If you&#39;d like to see more of our models you can look at all of them on the Sketchfab website. (click:&quot;look at all of them on the Sketchfab website.&quot;)[(goto-url: &quot;https://sketchfab.com/HistoricEnvironmentScotland/models&quot;)]
 
 (align: &quot;=&gt;&lt;=&quot;)[ -     -     -     -     - ]
-(css: &quot;color:rgb(105, 42, 93)&quot;)[&#39;&#39;This is the first time we&#39;ve made something like this and we&#39;d love to hear what you think. Give us some quick feedback&#39;&#39;(click:&quot;Give us some quick feedback&quot;)[(goto-url: &quot;url t.b.d&quot;)]]
+(css: &quot;color:rgb(105, 42, 93)&quot;)[&#39;&#39;This is the first time we&#39;ve made something like this and we&#39;d love to hear what you think. Give us some quick feedback&#39;&#39;(click:&quot;Give us some quick feedback&quot;)[(goto-url: &quot;https://consultations.historicenvironment.scot/commercial-tourism/164bcf4c/consult_view
+&quot;)]]
 
 Take me back to the Historic Environment Scotland website (click:&quot;Take me back to the Historic Environment Scotland website&quot;)[(goto-url: &quot;https://www.historicenvironment.scot/learn/learn-at-home/&quot;)]</tw-passagedata><tw-passagedata pid="47" name="&quot;Hopefully we can now hold out until help arrives.&quot;" tags="game" position="1473,1932" size="200,100">Three days later the lady&#39;s brother arrives with 300 soliders. They attack the Earl of Rannoch&#39;s troops from behind. The laird opens the gates and leads the castle troops out to attack Rannoch&#39;s men from the other side. The siege is broken. Rannoch is taken hostage and the everyone in the castle celebrates with a feast. 
 
@@ -963,7 +964,7 @@ Want to find out where other choices might have led? Play again (click:&quot;Pla
 The 3D models in the game are real objects and places that Historic Environment Scotland looks after. If you&#39;d like to see more of our models you can look at all of them on the Sketchfab website. (click:&quot;look at all of them on the Sketchfab website.&quot;)[(goto-url: &quot;https://sketchfab.com/HistoricEnvironmentScotland/models&quot;)]
 
 (align: &quot;=&gt;&lt;=&quot;)[ -     -     -     -     - ]
-(css: &quot;color:rgb(105, 42, 93)&quot;)[&#39;&#39;This is the first time we&#39;ve made something like this and we&#39;d love to hear what you think. Give us some quick feedback&#39;&#39;(click:&quot;Give us some quick feedback&quot;)[(goto-url: &quot;url t.b.d&quot;)]]
+(css: &quot;color:rgb(105, 42, 93)&quot;)[&#39;&#39;This is the first time we&#39;ve made something like this and we&#39;d love to hear what you think. Give us some quick feedback&#39;&#39;(click:&quot;Give us some quick feedback&quot;)[(goto-url: &quot;https://consultations.historicenvironment.scot/commercial-tourism/164bcf4c/consult_view&quot;)]]
 
 Take me back to the Historic Environment Scotland website (click:&quot;Take me back to the Historic Environment Scotland website&quot;)[(goto-url: &quot;https://www.historicenvironment.scot/learn/learn-at-home/&quot;)]</tw-passagedata><tw-passagedata pid="84" name="a hand grabs you by the shoulder a spins you round" tags="game" position="2937,1783" size="100,100">It&#39;s one of the guards. He&#39;s standing just inside the entrance to the laird&#39;s room. 
 
